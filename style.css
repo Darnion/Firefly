@@ -1,5 +1,4 @@
 body{
-	background: url(line.png) center no-repeat;
 	width: 100%;
 	height: 100px;
 	margin: 0 auto;
@@ -18,6 +17,13 @@ body{
 	position: absolute;
 	left: 0;
 	top: 60px;
+}
+
+line{
+	display: flex;
+	position: absolute;
+	left: 0;
+	top: 49px;
 }
 
 .social{
