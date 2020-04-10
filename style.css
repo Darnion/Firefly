@@ -19,7 +19,7 @@ body{
 	top: 60px;
 }
 
-line{
+.line{
 	display: flex;
 	position: absolute;
 	left: 0;
