@@ -66,8 +66,9 @@ nav{
 
 .nav{
 	display: inline-block;
-	left: 20px;
+	left: 46%;
 	position: relative;
+	bottom: 15px;
 	height: 100px;
 }
 
@@ -116,13 +117,13 @@ a, .socweb__links{
 }
 
 .shape_2 {
-	display: inline-block;
+	display: flex;
 	background-color: rgb(76, 175, 80);
 	width: 57px;
 	height: 2px;
 	z-index: 279;
 	margin-bottom: 60px;
-	margin-left: 45%; 
+	margin-left: 47%; 
 }
 
 .firefly {
